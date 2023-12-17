@@ -1,10 +1,7 @@
-
 # Calculator App
 
 A simple and practical calculator with a beautiful design and the ability to view history
 Please give this project a star, I appreciate it. The project will evolve over time.
-
-# Screenshots
 ## Screenshots
 
 ![App Screenshot](https://s6.uupload.ir/files/screenshot_1702819827_xnlo.png)
