@@ -1,17 +1,43 @@
-# Calculator App With Flutter
 
-Simple calculator app with standard UI
+# Calculator App
 
-## Developer
+A simple and practical calculator with a beautiful design and the ability to view history
+Please give this project a star, I appreciate it. The project will evolve over time.
 
-This project was developed by Hiwa Amiri
-* [Follow Me On Instagram](https://instagram.com/hiwaamiri.ir/) - @hiwaamiri.ir
+# Screenshots
+## Screenshots
+
+![App Screenshot](https://s6.uupload.ir/files/screenshot_1702819827_xnlo.png)
 
 
-## Built With
+## Used By
 
-* [Flutter](https://flutter.dev/) - The framework used
+This project is used by :
+
+- Flutter
+
 
 ## License
+Copyright (c) [2023] [Calculator App]
 
-You can use this project for free
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Calculator App]"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+## Feedback
+
+If you have any feedback, please reach out to us at hiwaamiri.ir@gmail.com
+
